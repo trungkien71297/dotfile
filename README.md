@@ -9,3 +9,6 @@ stow config
 Fastfetch
 kitty
 yazi
+
+Font:
+FiraCode Nerd Font
